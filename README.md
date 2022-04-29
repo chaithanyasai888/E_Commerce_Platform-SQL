@@ -1,6 +1,6 @@
 # E_Commerce_Platform-SQL
 
- Data Preforcessing
+ Data Preprocessing
 
 # Checking the for the data in E_Commerce_platfrom
 
