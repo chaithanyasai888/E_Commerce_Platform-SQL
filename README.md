@@ -3,6 +3,7 @@
  Data Preforcessing
 
 # Checking the for the data in E_Commerce_platfrom
+
 a.Uses Profile Picture in their Profile
 b.Uses Application for Ecommerce platform
 c.Uses Android app
