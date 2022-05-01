@@ -1,10 +1,10 @@
-# E_Commerce_Platform-SQL
+## E_Commerce_Platform-SQL
 
  Data Preprocessing
 
-# Checking the for the data in E_Commerce_platfrom
+## Checking the for the data in E_Commerce_platfrom
 
-a.Uses Profile Picture in their Profile
+a.Users Using Profile Picture in their Profile
 b.Uses Application for Ecommerce platform
 c.Uses Android app
 d.Uses ios app
